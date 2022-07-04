@@ -1,1 +1,1 @@
-# Salmonella_Campylobacter_spatial
+# Salmonella and Campylobacter spatial
