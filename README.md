@@ -1,1 +1,0 @@
-# Salmonella and Campylobacter spatial
